@@ -1,6 +1,6 @@
 At the core of this project is a 3d graphics engine I built from scratch using CMU CS Academy.
 It includes:
-- Custom linear algebra perspective projection (uses homogenous normalization)  
+- Custom linear algebra perspective projection (uses homogeneous normalization)  
 - Back-face culling & lighting
 - Automatic mesh triangulation
 
