@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/dc659974-b36b-4ddd-a3fc-5062c312b816
+
 At the core of this project is a 3d graphics engine I built from scratch using CMU CS Academy.
 It includes:
 - Custom linear algebra perspective projection (uses homogeneous normalization)  
